@@ -1,4 +1,4 @@
-# Blockchain
+# Blockchain Development
 I developed a blockchain for a cryptocurrency which includes the units of transactions, blocks and the blockchain status
 
 ## Code and Resources
